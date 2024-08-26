@@ -1,0 +1,12 @@
+Node name,Expression,Left child,Right child
+Level: 1
+node_1,f3 >= 11,node_2,node_3
+Level: 2
+node_2,f1 < 56,node_4,node_5
+node_3,f0 < 0,node_6,node_7
+Level: 3
+node_4,f2 < 59,,
+node_5,f0 < 0,,
+node_6,f1 >= 0,,
+node_7,f1 < 0,,
+Predicate,(PD >= 11 AND PP < 56 AND HP < 59),Representativeness,0.8212272486476797
