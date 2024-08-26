@@ -1,7 +1,0 @@
-Node name,Expression,Left child,Right child
-Level: 1
-node_1,f3 < 5,node_2,node_3
-Level: 2
-node_2,f1 >= 6,,
-node_3,f0 < 0,,
-Predicate,(PD < 5 AND PP >= 6),Representativeness,0.8415194850093738
