@@ -1,4 +1,4 @@
-The following repo contains the code for the ESX method presented in the thesis 'Formal Reasoning for Reinforcement Learning' (TODO change name).
+The following repo contains the code for the ESX method presented in the thesis 'Explaining Reinforcement Learning'.
 The implementation is composed of *1* folder. The code was done under the 3.8 Python version.  Before testing our implementation, it's *necessary* to install packages of requirements.txt using the 
 following pip command: 
 
